@@ -1,0 +1,15 @@
+body {
+    color: white;
+    background-color: black;
+    margin: 0% 40%;
+}
+
+header {
+    font-family: monospace, 'Courier New';
+    font-size: 36px;
+}
+
+footer {
+    font-family: 'Gill Sans', Calibri;
+    font-size: 18px;
+}
